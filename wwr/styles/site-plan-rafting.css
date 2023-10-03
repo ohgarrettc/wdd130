@@ -1,2 +1,58 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=IBM+Plex+Sans+Arabic&display=swap');
 
+:root {
+    
+    --primary-color: #1f2421   ;
+    --secondary-color: #49a078 ;
+    --accent1-color: #9cc5a1;
+    --accent2-color: #dce1de;
+  
+    
+    --heading-font: "Carter One";
+    --paragraph-font: "IBM Plex Sans Arabic", Helvetica, sans-serif;
+  
+    
+    /*--headline-color-on-white: #1f2421;  /* headlines on a white background */ 
+    /*--headline-color-on-color: white; /* headlines on a colored background */ 
+    /*--paragraph-color-on-white: #1f2421; /* paragraph text on a white background */ 
+    /*--paragraph-color-on-color: white; /* paragraph text on a colored background */
+    /*--paragraph-background-color: #49a078; */
+    --nav-link-color: white;
+    --nav-background-color: #9cc5a1;
+    --nav-hover-link-color: #dce1de;
+    --nav-hover-background-color: #49a078;
+  }
+  body {
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+  }
+  header {
+    padding: 20px;
+    background-color: var(--accent1-color);
+  }
+  p {
+    padding: 25px;
+  }
+  nav {
+    background-color: var(--nav-background-color);
+    font-size: 1.2em;
+    display: flex;
+  }
+  nav a {
+    display: block;
+    color: var(--nav-link-color);
+    text-decoration: none;
+    padding: 1rem;
+  }
+  nav a:link, nav a:visited {
+    color: var(--nav-link-color);
+}
+nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover-background-color);
+}
