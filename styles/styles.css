@@ -18,12 +18,20 @@ img {
     box-shadow: 0 0 30px gray;
 }
 p {
-    padding: 10;
+    /* updated week2 */
+    padding: 0;
 }
 main {
+    /* updated week2 */
     max-width: 840px;
 }
+main img{
+    /* updated all properties week2 */
+    width: 150px;
+    height: auto;
+}
 aside {
+    /* updated all properties week2 */
     width: 20rem;
     margin: 1rem;
     border: 1px solid rgba(0, 0, 0, 0.2); /* 1️⃣ */
@@ -33,14 +41,12 @@ aside {
     text-align: center;
 }
 aside img {
+    /* updated all properties week2 */
     width: 200px;
     height: auto;
 }
-main img{
-    width: 150px;
-    height: auto;
-}
 footer {
+    /* updated all properties week2 */
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
