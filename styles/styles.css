@@ -58,6 +58,12 @@ aside img {
     width: 200px;
     height: auto;
 }
+aside h2 {
+    /*added week3 */
+    position: absolute;
+    top: 590px;
+    left: 150px;
+}
 footer {
     /* updated all properties week2 */
     margin-top: 15px;
