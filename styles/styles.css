@@ -41,6 +41,7 @@ main img{
     /* updated all properties week2 */
     width: 150px;
     height: auto;
+    float: right; /* updated week3 */
 }
 aside {
     /* updated all properties week2 */
