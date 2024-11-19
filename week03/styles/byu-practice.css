@@ -1,14 +1,22 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 
 body {
     /* font-family: 'Brush Script MT'; */
     /* font-family: Georgia; */
     /* font-family: Roboto; */
-    /* font-family: Roboto, Helvetica, sans-serif;
+    font-family: Roboto, Helvetica, sans-serif;
 }
 h1 {
     /* font-family: 'Arial Black'; */
     /* font-family: 'Rock Salt'; */
-    /* font-family: 'Rock Salt', 'Bradley Hand', cursive;
-} */
+    font-family: 'Rock Salt', 'Bradley Hand', cursive;
+}
  
+/* example two
+
+https://byui-cit.github.io/learning-modules/modules/css/css-fonts/prepare1/
+
+downloading and installing a font kit locally so css can read the fonts.
+this is used when we want the fonts to be locally read instaed of using
+the internet to serve up the fonts. used if we do not have a web connection.
+*/ 
