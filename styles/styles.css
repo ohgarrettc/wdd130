@@ -52,6 +52,7 @@ aside {
     background-color: #eee;
     color: #333; commented out week3*/
     text-align: center;
+    position: relative;
 }
 aside img {
     /* updated all properties week2 */
@@ -61,8 +62,8 @@ aside img {
 aside h2 {
     /*added week3 */
     position: absolute;
-    top: 705px;
-    left: 150px;
+    top: px;
+    left: 135px;
 }
 footer {
     /* updated all properties week2 */
