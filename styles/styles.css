@@ -9,29 +9,32 @@ This was added or supopsed to be udpated in week03 */
     padding: 0;
     box-sizing: border-box;
 }
-
+/* updated week2 */
 nav {
-    background-color: steelblue;
+    background-color: darkblue;
     padding: 10px;
 }
+/* updated week2 */
 nav a {
     color: white;
     display: block;
     padding: 20px;
 }
+/* updated week2 */
 h1 {
-    color: steelblue;
+    color: darkblue;
 }
+/* updated week2 */
 img {
     width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
+/* updated week2 */
 p {
-    /* updated week2 */
-    padding: 0;
+    padding: 10px;
 }
 main {
     /* updated week2 */
