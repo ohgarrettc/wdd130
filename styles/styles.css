@@ -46,7 +46,7 @@ main img{
     height: auto;
 }
 aside {
-    /* updated week2 */
+    /* updated week2, updated using video instruction */
     width: 20em;
     margin: 1em;
     border: 1px solid rgba(0, 0, 0 / 0.2); /* 1️⃣ */
@@ -67,7 +67,7 @@ aside h2 {
     left: 135px;
 }
 footer {
-    /* updated week2 */
+    /* updated week2, using class notes */
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
