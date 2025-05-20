@@ -1,5 +1,5 @@
 .callout {
-	width: 400px;
+	max-width: 400px;
     margin: 10px;
     border: 1px solid rgba(0,0,0,.1);
     padding: 15px;
@@ -28,3 +28,5 @@ cite {
     text-align: right;
     font-size: smaller;
 }
+
+/* Last date updated: 20 may 2025 */
